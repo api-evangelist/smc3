@@ -64,5 +64,88 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SMC3 is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://smc3.com/
+SMC3 provides technology solutions for LTL transportation pricing and logistics. Their platform offers a suite of products including CzarLite, RateWare, BatchMark, CarrierConnect, Bid$ense, and webRater, delivering dynamic pricing, rate management, and integration tools for shippers, carriers, and logistics service providers. The company’s website showcases product overviews, API access for LTL pricing data, integration options, and resources such as case studies, blogs, and a knowledge hub, reflecting a comprehensive approach to transportation intelligence and cost optimization.
+
+**Areas:** Company · Logistics · Transportation · Pricing · API
+
+## SMC3 on APIs.io
+
+Everything profiled for SMC3 is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/smc3/](https://apis.io/providers/smc3/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [LTL APIs](https://apis.io/apis/smc3/ltl-apis/) — SMC3 provides LTL transportation pricing APIs as described on their LTL API page.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [SMC3 Domain Security](https://apis.io/security/smc3/smc3-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://smc3.com/)
+- [Terms of service](https://smc3.com/terms-and-conditions.htm)
+- [Privacy policy](https://smc3.com/privacy-policy.htm)
+
+## API Evangelist rating
+
+**Kin Score 8.6** — minimal · rubric 0.28.0 · scored 2026-11-15
+
+| Facet | Score |
+|---|---|
+| Discoverability | 53.6 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 17.0 |
+
+**Agent readiness 18.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/smc3/](https://apis.io/providers/smc3/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SMC3: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/smc3/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
